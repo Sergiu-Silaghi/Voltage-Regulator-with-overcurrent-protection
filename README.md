@@ -37,8 +37,6 @@ The design ensures that: 6 V ≤ Vout ≤ 19 V
 
 This is achieved through a regulation mechanism based on feedback control, which stabilizes the output voltage despite variations in load current or input conditions.
 
-The regulator continuously monitors the output voltage and adjusts the control element to maintain the desired operating range.
-
 ---
 
 ## Overcurrent Protection
