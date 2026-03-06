@@ -99,5 +99,5 @@ This project demonstrates several important concepts in **analog and power elect
 
 ## Author
 
-University project developed as part of the Computer Aided Design (CAD) course, focusing on the design and simulation of analog electronic circuits.
+University project developed as part of the **Computer Aided Design (CAD)** course, focusing on the design and simulation of analog electronic circuits.
 
